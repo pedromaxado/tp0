@@ -1,0 +1,14 @@
+testes/aleatorios/10.txt
+0.00
+testes/aleatorios/15.txt
+0.01
+testes/aleatorios/20.txt
+0.17
+testes/aleatorios/25.txt
+1.76
+testes/aleatorios/30.txt
+14.95
+testes/aleatorios/35.txt
+82.83
+testes/aleatorios/40.txt
+516.24
